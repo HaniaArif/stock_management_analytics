@@ -1,8 +1,8 @@
 credentials:
   usernames:
     inv247:
-      email: alexiseliasjw@gmail.com
-      name: Alexis Elias
+      email: abc@gmail.com
+      name: FirstName LastName
       password: $2b$12$4F8Pzithd7DDIl1PjBxPfe1aEyGCc7MaPH3THmJeU8qMGcXW/CWC. # To be replaced with hashed password
     # rbriggs:
     #   email: rbriggs@gmail.com
@@ -14,4 +14,4 @@ cookie:
   name: admin_cookie
 preauthorized:
   emails:
-  - alexiseliasjw@gmail.com
+  - abc@gmail.com
