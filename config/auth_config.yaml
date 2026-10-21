@@ -1,6 +1,6 @@
 credentials:
   usernames:
-    inv247:
+    user_abc:
       email: abc@gmail.com
       name: FirstName LastName
       password: $2b$12$4F8Pzithd7DDIl1PjBxPfe1aEyGCc7MaPH3THmJeU8qMGcXW/CWC. # To be replaced with hashed password
